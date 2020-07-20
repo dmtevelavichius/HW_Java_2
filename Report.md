@@ -13,7 +13,7 @@
 * Описание процесса тестирования:
 1. Открываю IntelliJ IDEA 
 2. Создаю новый проект
-3. Присваиваю имя
+3. Присваиваю имя Main
 4. Далее прописываю код ![код](https://github.com/dmtevelavichius/HW_Java_3/blob/master/src/Main%20with%20init.png)
 5. Жму Run
 
